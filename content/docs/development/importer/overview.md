@@ -6,7 +6,7 @@ images: []
 weight: 30061
 ---
 
-This part of the documentation describes the Charles Importer script. The Charles Importer is a TypeScript program that reads data from a SQLite3 database and using user-defined transformations and mappings, it writes the data to the Charles Explorer PostgreSQL database and the Solr search index.
+This part of the documentation describes the Charles Importer script. Charles Importer is a TypeScript program that reads data from a SQLite3 database and using user-defined transformations and mappings, it writes the data to the Charles Explorer PostgreSQL database and the Solr search index.
 
 ## Top-level view
 
